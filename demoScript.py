@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Generate data for a sine wave
-x = np.linspace(0, 20 * np.pi, 100)
+x = np.linspace(0, 1 * np.pi, 100)
 y = np.sin(x)
 
 # Create the plot
